@@ -1,0 +1,9 @@
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\bin\Debug\netcoreapp2.1\FluentDictionary.deps.json
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\bin\Debug\netcoreapp2.1\FluentDictionary.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\bin\Debug\netcoreapp2.1\FluentDictionary.pdb
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\obj\Debug\netcoreapp2.1\FluentDictionary.csprojAssemblyReference.cache
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\obj\Debug\netcoreapp2.1\FluentDictionary.csproj.CoreCompileInputs.cache
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\obj\Debug\netcoreapp2.1\FluentDictionary.AssemblyInfoInputs.cache
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\obj\Debug\netcoreapp2.1\FluentDictionary.AssemblyInfo.cs
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\obj\Debug\netcoreapp2.1\FluentDictionary.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionary\obj\Debug\netcoreapp2.1\FluentDictionary.pdb

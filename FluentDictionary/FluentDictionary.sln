@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDictionary", "FluentDictionary\FluentDictionary.csproj", "{D9FE35D4-B482-467E-803C-2978871B8C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentDictionaryTest", "FluentDictionaryTest\FluentDictionaryTest.csproj", "{783A429D-7334-4929-BA6D-8E74ABFF0664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FE35D4-B482-467E-803C-2978871B8C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FE35D4-B482-467E-803C-2978871B8C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FE35D4-B482-467E-803C-2978871B8C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FE35D4-B482-467E-803C-2978871B8C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783A429D-7334-4929-BA6D-8E74ABFF0664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783A429D-7334-4929-BA6D-8E74ABFF0664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783A429D-7334-4929-BA6D-8E74ABFF0664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783A429D-7334-4929-BA6D-8E74ABFF0664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D05FAA-2B7E-4E52-BAA5-6DDA1799DBC2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionaryTest.deps.json
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionaryTest.runtimeconfig.json
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionaryTest.runtimeconfig.dev.json
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionaryTest.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionaryTest.pdb
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.csprojAssemblyReference.cache
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.csproj.CoreCompileInputs.cache
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.AssemblyInfoInputs.cache
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.AssemblyInfo.cs
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.pdb
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionary.dll
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\bin\Debug\netcoreapp2.1\FluentDictionary.pdb
+D:\Private\C#\FluentDictionary\FluentDictionary\FluentDictionaryTest\obj\Debug\netcoreapp2.1\FluentDictionaryTest.csproj.CopyComplete
